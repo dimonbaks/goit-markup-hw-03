@@ -63,7 +63,7 @@ body {
     background-color: var(--white-color);
     padding-top: 24px;
     padding-bottom: 25px;
-    border: 1px solid #ECECEC;
+    border-bottom: 1px solid #ECECEC;
 }
 
 .header .container {
@@ -147,11 +147,12 @@ body {
 .hero{
         text-align: center;
         background-color: #2F303A;
+        padding-top: 200px;
+        padding-bottom: 200px;
 }
 
 .hero-content {
-        padding-top: 200px;
-        padding-bottom: 280px;
+        
 }
 
 .hero-title {
@@ -195,7 +196,7 @@ body {
 /* ----------PLUS---------- */
 
 .plus {
-        padding-top: 118px;
+        padding-top: 94px;
 }
 
 .plus-list {
